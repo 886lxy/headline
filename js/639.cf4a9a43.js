@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktoutiao_a"]=self["webpackChunktoutiao_a"]||[]).push([[639],{6639:function(t,u,n){n.r(u),n.d(u,{default:function(){return i}});var a=function(){var t=this,u=t._self._c;return u("div",[t._v("这是问答页面")])},e=[],r={data(){return{}},methods:{}},o=r,s=n(1001),f=(0,s.Z)(o,a,e,!1,null,"3589af45",null),i=f.exports}}]);
+//# sourceMappingURL=639.cf4a9a43.js.map

@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktoutiao_a"]=self["webpackChunktoutiao_a"]||[]).push([[713],{713:function(t,u,e){e.r(u),e.d(u,{default:function(){return l}});var n=function(){var t=this,u=t._self._c;return u("div",[t._v("这是视频页面")])},a=[],r={data(){return{}},methods:{}},o=r,s=e(1001),i=(0,s.Z)(o,n,a,!1,null,"b1ee4890",null),l=i.exports}}]);
+//# sourceMappingURL=713.5078c33d.js.map
